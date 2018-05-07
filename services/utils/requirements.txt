@@ -1,3 +1,0 @@
-kazoo==2.2.1
-PyYAML==3.12
-urllib3==1.7.1
